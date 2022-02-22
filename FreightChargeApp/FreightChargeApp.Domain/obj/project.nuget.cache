@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydPVgZ53T9q32bfZ5wymW/yAmEG4nXxNPwJqmqxGpl2zVrpo47qCxKdFYXN0BTvBZaGKoFhVQGhP0xXneGV46Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\OneDrive\\Desktop\\FreightChargeApp\\FreightChargeApp.Domain\\FreightChargeApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
